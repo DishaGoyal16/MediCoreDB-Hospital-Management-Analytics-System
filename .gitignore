@@ -1,0 +1,41 @@
+# PostgreSQL
+*.backup
+*.dump
+*.sql.bak
+
+# Environment files
+.env
+.env.local
+.env.production
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Node (if any tooling added later)
+node_modules/
+npm-debug.log*
+
+# Python (if any tooling added later)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
